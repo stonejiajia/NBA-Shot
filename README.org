@@ -1,1 +1,2 @@
 NBA 数据抓取和分析~~~~
+[[https://github.com/stonejiajia/NBA-Shot/blob/master/NBA-Final.ipynb][演示文档]]
