@@ -7,6 +7,16 @@ Hello
 #+END_SRC
 
 
-[[My Target"stonelele][Find my target]]
-[[file:~/cod"”e/main.c"""::255]]
+[[My Target"javascript][Find my target]]
+
+[[file:~/code/main.c"""::255]]
+
+* TODO Organize party [2/4]
+- [-] call people [1/3]
+- [ ] Peter
+- [X] Sarah
+- [ ] Sam
+- [X] order food
+- [ ] think about what music to play
+- [X] talk to the neighbors
 
