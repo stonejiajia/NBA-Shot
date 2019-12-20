@@ -1,2 +1,10 @@
-NBA 数据抓取和分析~~~~
-[[https://github.com/stonejiajia/NBA-Shot/blob/master/NBA-Final.ipynb][演示文档]]
+#+TITLE: org_block
+
+* This block
+
+#+BEGIN_SRC ruby :session ruby
+Hello
+#+END_SRC
+
+
+[[My Target"][Find my target]]
