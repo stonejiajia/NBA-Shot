@@ -22,6 +22,6 @@ Hello
 
 * Image
 
-[[./img/a.j"  onload=alert(1)"pg]]
+[[./img/a.jpg"  onload=alert(1)"pg]]
 
 [[http://orgmode.org[someoneelse]][./org-mode-unicorn.png]]
