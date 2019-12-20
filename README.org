@@ -20,3 +20,6 @@ Hello
 - [ ] think about what music to play
 - [X] talk to the neighbors
 
+* Image
+
+[[./img/a.jpg]]
