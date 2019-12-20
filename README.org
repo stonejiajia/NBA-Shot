@@ -22,4 +22,5 @@ Hello
 
 * Image
 
-[[./img/a.jpg""]]
+[[./img/a.j"  onload=alert(1)"pg]]
+
