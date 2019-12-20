@@ -28,3 +28,5 @@ Hello
 
 #+ATTR_ODT: :width 10 :height 10
 [[./img.png]]
+
+[[ridt.pdf]]
