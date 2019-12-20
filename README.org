@@ -7,5 +7,5 @@ Hello
 #+END_SRC
 
 
-[[My Target"javascript][Find my target]]
+[[My Target"stonelele][Find my target]]
 
