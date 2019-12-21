@@ -52,4 +52,4 @@ height="42" width="42"
 [[./img/a.j"  alt2="test" alt="hello".jpg height="42" width="42"]]
 
 
-[[./img/a.j"  alt2="test" alt="hello".jpg height="42" width="42" src/one="42"]]
+[[./img/a.j"  alt2="test" alt="hello".jpg height="42" width="42" width="31"]]
