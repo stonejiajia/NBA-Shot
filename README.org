@@ -39,3 +39,6 @@ x=\sqrt{b}
 [[./img/a.j"  alt="hello".jpg]]
 
 [[./img/a.j"  alt="hel<>lo".jpg]]
+
+
+[[./img/a.j"  alt2="test" alt="hello".jpg]]
