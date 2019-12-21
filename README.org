@@ -30,7 +30,7 @@ x=\sqrt{b}
 
 [[.......>/imgstone/a.j"  onload=alert(1)".jpg]]
 
-[[http://orgmode.org[someoneelse]][./org-mode-unicorn.png]]
+[[http://orgmode.org][./org-mode-unicorn.png]]
 
 #+ATTR_ODT: :width 10 :height 10
 [[./img.png]]
