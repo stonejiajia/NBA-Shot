@@ -28,8 +28,6 @@ x=\sqrt{b}
 
 * Image
 
-x
-
 [[http://orgmode.org][./org-mode-unicorn.png]]
 
 #+ATTR_ODT: :width 10 :height 10
@@ -37,4 +35,4 @@ x
 
 [[ridt.svg]]
 
-[[./img/a.j"  onload=alert(1)"pg]]
+[[./img/a.j"  onload=alert(1)"jpg]]
