@@ -28,7 +28,7 @@ x=\sqrt{b}
 
 * Image
 
-[[......./imgstone/a.j"  onload=alert(1)".jpg]]
+[[.......>/imgstone/a.j"  onload=alert(1)".jpg]]
 
 [[http://orgmode.org[someoneelse]][./org-mode-unicorn.png]]
 
