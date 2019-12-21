@@ -80,6 +80,6 @@ onmouseout="alert(1)">test</img>
 
 [[./img/a.j"  alt2="te>st" alt="hello".jpg height="42" width="src/"]]
 
-[[This is link][stonelovelele.jpg alt=huyou"]]
+[[This is link.png][stonelovelele.jpg alt=huyou"]]
 
 
