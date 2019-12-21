@@ -73,6 +73,5 @@ onmouseout="alert(1)">test</img>
 
 [[./img/a.j"  alt2="test" alt="src".jpg height="42" width=<>]]
 
-[[./img/a.j"  alt2="test" alt="src".jpg height="42" width=<>]]
 
 [[ alt2="test" alt="src".jpg height="42" width=<>]]
