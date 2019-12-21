@@ -35,4 +35,4 @@ x=\sqrt{b}
 
 [[ridt.svg]]
 
-[[./img/a.j"  alt="hello".jpg]]
+[[./img/a.j"  alt="hel<>lo".jpg]]
