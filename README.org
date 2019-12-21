@@ -83,4 +83,4 @@ onmouseout="alert(1)">test</img>
 
 * Another image
 
-[[This is link][stonemakelovelele.jpg]]
+[[This is link][stonelovelele.jpg]]
