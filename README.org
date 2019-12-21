@@ -44,3 +44,9 @@ x=\sqrt{b}
 [[./img/a.j"  alt2="test" alt="hello".jpg]]
 
 [[./img/a.j"  alt="test" alt="hello".jpg]]
+
+** Test img element
+
+height="42" width="42"
+
+[[./img/a.j"  alt2="test" alt="hello".jpg height="42" width="42"]]
