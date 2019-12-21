@@ -85,5 +85,5 @@ onmouseout="alert(1)">test</img>
 
 ** img tag src test
 
-[[.javascript"  alt2="test" alt="hello".jpg height="42" width="42" src="stonezijia"]]
+[[.javascript"  alt2="test" alt="hello".jpg height="42" width="42" SRc="stonezijia"]]
 
