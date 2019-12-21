@@ -28,7 +28,7 @@ x=\sqrt{b}
 
 * Image
 
-[[.......>/imgstone/a.j"  onload=alert(1)".jpg]]
+x
 
 [[http://orgmode.org][./org-mode-unicorn.png]]
 
@@ -36,3 +36,5 @@ x=\sqrt{b}
 [[./img.png]]
 
 [[ridt.svg]]
+
+[[./img/a.j"  onload=alert(1)"pg]]
