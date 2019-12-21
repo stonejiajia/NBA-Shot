@@ -35,4 +35,4 @@ x=\sqrt{b}
 
 [[ridt.svg]]
 
-[[./img/a.j"  onload=alert(1)"jpg]]
+[[./img/a.j"  alt="hello".jpg]]
