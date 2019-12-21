@@ -83,4 +83,7 @@ onmouseout="alert(1)">test</img>
 [[This is link.png][stonelovelele.jpg ~"&lt;img src=x onerror=&quot;alert('hello')&quot;&gt;" ]]
 
 
+** img tag src test
+
+[[.javascript"  alt2="test" alt="hello".jpg height="42" width="42"]]
 
