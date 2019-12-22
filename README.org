@@ -78,7 +78,7 @@ onmouseout="alert(1)">test</img>
 
 ** close element
 
-[[ &#14;  javascript:alert(1)"  alt2="test" alt="hello".jpg height="42" width="src/"]]
+[[ &#14;  javascrip:talert(1)"  alt2="test" alt="hello".jpg height="42" width="src/"]]
 
 [[This is link.png][stonelovelele.jpg ~"&lt;img src=x onerror=&quot;alert('hello')&quot;&gt;" ]]
 
