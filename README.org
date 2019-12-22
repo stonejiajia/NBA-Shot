@@ -80,7 +80,7 @@ onmouseout="alert(1)">test</img>
 
 [[ &#14;  javascrip:talert(1)"  alt2="test" alt="hello".jpg height="42" width="src/"]]
 
-[[This is link.png][stonelovelele.jpg ~"&lt;img src=x onerror=&quot;alert('hello')&quot;&gt;" ]]
+[[This is link.png][stonelovelele.jpg ~:&lt;img src=x onerror=&quot;alert('hello')&quot;&gt;" ]]
 
 
 
